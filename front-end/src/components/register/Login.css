@@ -1,0 +1,22 @@
+.image {
+  width: 100%;
+  height: auto;
+  margin-top: 5px;
+}
+
+.container {
+  margin: 30px;
+  text-align: center;
+}
+
+.icon {
+  color: #61cfbd
+}
+
+.link, .link:visited {
+  color: #1E90FF;
+}
+
+.link:hover {
+  color: #ec95a9;
+}
